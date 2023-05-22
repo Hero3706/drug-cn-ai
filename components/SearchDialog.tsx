@@ -187,7 +187,7 @@ export function SearchDialog() {
       >
         <Search width={15} />
         <span className="border border-l h-5"></span>
-        <span className="inline-block ml-4">请输入法律问题</span>
+        <span className="inline-block ml-4">请输入问题</span>
         <kbd
           className="absolute right-3 top-4
           pointer-events-none inline-flex h-5 select-none items-center gap-1
